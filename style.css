@@ -34,7 +34,9 @@ img {
     font-size: 1.1em;
     text-align: center;
 }
-
+img {
+    width: auto;
+}
 .table_blur {
   background: #f5ffff;
   border-collapse: collapse;
